@@ -1,0 +1,20 @@
+body {
+  /* The image used */
+  background-image: url("images/cofeeShop_background.jpg");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+h1{
+ color: white;   
+}
+
+img{
+    width: 200px;
+    height: 300px;
+}
